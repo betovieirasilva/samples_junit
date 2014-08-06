@@ -11,5 +11,6 @@ package exemplostestgit;
  * @author root
  */
 public class ClassA {
-    
+    void outroTeste(){
+    }
 }
