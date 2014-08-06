@@ -8,13 +8,12 @@ package exemplostestgit;
 
 /**
  *
- * @author Gilberto Vieira da Silva
+ * @author root
  */
 public class ClassC {
- 
+   
     public void teste(){
-        //faz outra coisa
+        //faz alguma coisa
     }
-    
     
 }
