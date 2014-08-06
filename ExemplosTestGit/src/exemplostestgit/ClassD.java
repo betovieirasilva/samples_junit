@@ -12,7 +12,4 @@ package exemplostestgit;
  */
 public class ClassD {
     
-    public void abrirArquivo(){
-    }
-    
 }
