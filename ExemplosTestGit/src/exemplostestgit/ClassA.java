@@ -13,4 +13,7 @@ package exemplostestgit;
 public class ClassA {
     void outroTeste(){
     }
+    int soma(int a, int b){
+     return a + b;
+    }
 }
