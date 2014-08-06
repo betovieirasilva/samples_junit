@@ -13,4 +13,6 @@ package exemplostestgit;
 public class ClassA {
     void outroTeste(){
     }
+    void imprimir(){
+    }
 }
