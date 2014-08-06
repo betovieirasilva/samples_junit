@@ -7,7 +7,7 @@
 package exemplostestgit;
 
 /**
- *
+ * 
  * @author root
  */
 public class ClassA {
